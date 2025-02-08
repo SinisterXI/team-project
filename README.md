@@ -11,16 +11,21 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
 1. **Created a Repository on GitHub:**
    - I created a new repository on GitHub named `team-project`.
    - Added a `README.md` file and a `.gitignore` file for Python.
+   - ![image](https://github.com/user-attachments/assets/9cdbf1b7-f8c7-4d29-923a-2c01d035df87)
+
 
 2. **Cloned the Repository Locally:**
    - I cloned the repository to my local machine using the following command:
      ```bash
      git clone https://github.com/your-username/team-project.git
      ```
+     ![image](https://github.com/user-attachments/assets/dfafe15b-099a-45f5-b14d-528f7dead3bb)
    - Navigated into the cloned repository:
      ```bash
      cd team-project
      ```
+     ![image](https://github.com/user-attachments/assets/5b21bb9d-3c15-4175-b13a-ae9e0737a944)
+
 
 3. **Made the First Commit:**
    - Created a new file called `main.py` and added some sample code.
@@ -29,10 +34,14 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
      git add main.py
      git commit -m "Initial commit with main.py"
      ```
+     ![image](https://github.com/user-attachments/assets/636ccfc2-6480-443b-acf8-6b6fbf8e13da)
+    
    - Pushed the changes to GitHub:
      ```bash
      git push origin main
      ```
+      ![image](https://github.com/user-attachments/assets/75471816-5b00-4aaa-a7e5-5113823666d1)
+
 
 ---
 
@@ -44,6 +53,8 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
      git checkout -b feature/new-feature
      ```
    - Made changes to the `main.py` file.
+   - ![image](https://github.com/user-attachments/assets/706f8491-2273-4a15-96b3-24e38d15399c)
+
 
 2. **Committed and Pushed the Branch:**
    - Staged and committed the changes:
@@ -51,30 +62,43 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
      git add .
      git commit -m "Added new feature"
      ```
+     ![image](https://github.com/user-attachments/assets/7826a252-b6e5-44f5-b3a6-b4175cebafc9)
+
    - Pushed the branch to GitHub:
      ```bash
      git push origin feature/new-feature
      ```
+     ![image](https://github.com/user-attachments/assets/a27536af-a370-4921-9fc5-3fae341784de)
+
 
 3. **Created a Pull Request (PR):**
    - I went to the GitHub repository and created a Pull Request for the `feature/new-feature` branch.
    - Added a description of the changes and requested a review from a teammate.
+   - ![image](https://github.com/user-attachments/assets/aa2e455e-5d99-48ff-9ef1-d1f23940a313)
+
 
 4. **Merged the PR:**
    - After the PR was approved, I merged it into the `main` branch.
+   - ![image](https://github.com/user-attachments/assets/350d11d4-4143-422e-a330-f865a937b168)
+
 
 ---
+
 
 ### Step 3: Fork a Repository
 
 1. **Forked a Repository:**
    - I forked a public repository from a classmate's GitHub account by clicking the "Fork" button.
+   - ![image](https://github.com/user-attachments/assets/2d5394fd-2a23-488d-89fc-1c63c413f00c)
+
 
 2. **Cloned the Forked Repository:**
    - Cloned the forked repository to my local machine:
      ```bash
      git clone https://github.com/your-username/forked-repo.git
      ```
+     ![image](https://github.com/user-attachments/assets/37e7650b-08f0-45a2-9bc3-ada68bb29949)
+
 
 3. **Made Changes and Pushed:**
    - Made changes to the code in the forked repository.
@@ -84,6 +108,9 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
      git commit -m "Made changes to forked repo"
      git push origin main
      ```
+     ![image](https://github.com/user-attachments/assets/5adea1e3-aea3-41bc-a311-34f03dacdd8a)
+     ![image](https://github.com/user-attachments/assets/2c9c9999-9b53-44ae-95a9-7e07436c376d)
+     ![image](https://github.com/user-attachments/assets/b5d2101d-9797-46c6-bd8b-85262256378b)
 
 4. **Created a PR to the Original Repository:**
    - I went to my forked repository on GitHub and clicked "Contribute" > "Open Pull Request" to submit my changes to the original repository.
@@ -97,12 +124,14 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
      ```bash
      git revert commit_hash
      ```
+![image](https://github.com/user-attachments/assets/067bcf25-57f3-4d66-a667-252db726e57a)
 
 2. **Reset a Commit:**
    - I made a commit with some changes and then reset to a previous commit using:
      ```bash
      git reset --hard commit_hash
      ```
+![image](https://github.com/user-attachments/assets/7a0b04d8-699a-4565-8c72-490d3154ef2d)
 
 ---
 
