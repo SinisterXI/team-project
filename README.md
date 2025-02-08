@@ -146,16 +146,23 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
 Here are some screenshots of my GitHub activity:
 
 1. **Repository Creation:**
-   ![Repository Creation](screenshots/repo-creation.png)
+   ![Repository Creation](![image](https://github.com/user-attachments/assets/0eb85f3b-45fe-4520-9d64-a26617f7a8a3)
+)
+![image](https://github.com/user-attachments/assets/95da0eea-86cd-4c68-86c5-bc381d3b9dd8)
+
 
 2. **Branch Creation and PR:**
-   ![Branch and PR](screenshots/branch-pr.png)
+   ![Branch and PR](![image](https://github.com/user-attachments/assets/62d9aa82-d690-4acf-b2bc-9d5e5bb16831)
+)
 
 3. **Forked Repository and PR:**
-   ![Forked Repo](screenshots/forked-repo.png)
+   ![Forked Repo](![image](https://github.com/user-attachments/assets/a0166af1-2b31-4008-bca0-21063987d336)
+)
 
 4. **Revert and Reset Commands:**
-   ![Revert and Reset](screenshots/revert-reset.png)
+   ![Revert and Reset](![image](https://github.com/user-attachments/assets/548aecff-2eda-46f2-a0da-614f2848d41b)
+)
+![image](https://github.com/user-attachments/assets/c116a72d-f3e1-44fa-b874-588758c12da7)
 
 ---
 
