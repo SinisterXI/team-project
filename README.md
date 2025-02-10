@@ -137,7 +137,7 @@ This document outlines the steps I followed to complete the DevOps Assignment #1
 
 ### Step 5: Collaboration Workflow
 
-*(This section is incomplete as I have not yet completed Step 5. I will update this section once I simulate team collaboration and resolve merge conflicts.)*
+*(All Steps Shown in PDF file uploaded on teams)*
 
 ---
 
